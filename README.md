@@ -4,7 +4,7 @@ hello everyone, this is rishika.
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Rishika and I'm from delhi</p>
 
 ###
 
@@ -12,11 +12,11 @@ hello everyone, this is rishika.
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning html and css <br><br>🎲 Fun fact</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with visual studio</h2>
 
 ###
 
